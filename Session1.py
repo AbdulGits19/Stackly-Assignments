@@ -68,7 +68,7 @@ print(5 > 10 or 10 == 10)
 print(not(5 > 2))
 
 
-# Task 11 – Membership Operator
+# Task 11 – Membership Operatorgit
 numbers = [10,20,30,40,50]
 print(20 in numbers)
 print(60 in numbers)

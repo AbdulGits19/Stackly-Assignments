@@ -1,0 +1,74 @@
+PS C:\Users\Hp\OneDrive\Desktop\Stackly_Assignments> & C:/Python314/python.exe "c:/Users/Hp/OneDrive/Desktop/Stackly_Assignments/Task 2/Session2.py"
+2
+13
+-9
+6
+28
+10
+Enter x: 5
+Enter y: 6
+AND Result : 4
+XOR Result : 3
+hi hi hi hi
+python python python
+superman
+hello world
+Enter your name: abdul
+abdul abdul abdul abdul abdul 
+Enter str1: hi
+Enter str2: hello
+hi hello
+Enter your name: john
+<class 'str'>
+Enter your age: 22
+22 <class 'int'>
+Enter num1: 12
+Enter num2: 22
+Sum of num1 and num2 : 34
+Enter first mark: 50
+Enter second mark: 50
+Average : 50.0
+Enter num1: 33
+Enter num2: 56
+252
+Enter a number: 45
+Before:  <class 'str'>
+After:  <class 'int'>
+Enter a num: 50
+0
+Enter a num: 345
+5
+Enter a num: 366 
+36
+Enter a num: 12345
+4
+3
+Yes
+Enter a number: 45
+45 is < 50
+Enter a num: 33
+Age is above 18
+True
+True
+Odd
+Enter your marks: 78
+Pass
+Negative
+Greater than 10
+Enter Age: 25
+Enter Height (cm): 170
+Enter Weight (kg): 58
+Rejected : Weight too low
+Enter your Marks percentage: 89
+Enter your Age: 29
+Congratulations! You are eligible for admission.
+Enter Age: 19
+Enter Height (cm): 177
+Enter Weight (kg): 90
+Status: Selected for the Team!
+Enter day number from 1 to 7 : 7
+Sunday
+Select a Number from 1 to 3: 3
+Green
+Enter fruit id from 1 to 4 : 2
+Mango

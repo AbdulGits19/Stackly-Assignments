@@ -1,0 +1,303 @@
+PS C:\Users\Hp\OneDrive\Desktop\Stackly_Assignments> & C:/Python314/python.exe "c:/Users/Hp/OneDrive/Desktop/Stackly_Assignments/Task 4/Session4.py"
+Before:  {'name': 'Abdul', 'age': 22, 'role': 'Developer', 'salary': 50000}
+{'name': 'Divya', 'age': 25, 'role': 'UI Designer', 'salary': 40000}
+
+After:  {'name': 'Abdul', 'age': 22, 'role': 'Developer', 'salary': 60000}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=============================================
+            STUDENT REPORT CARD
+=============================================
+Name       : Abdul
+Maths      : 69
+Physics    : 77
+Chemistry  : 88
+---------------------------------------------
+Total      : 234
+Average    : 78.00
+Grade      : C
+=============================================
+
+=============================================
+            STUDENT REPORT CARD
+=============================================
+Name       : Charan
+Maths      : 90
+Physics    : 68
+Chemistry  : 77
+---------------------------------------------
+Total      : 235
+Average    : 78.33
+Grade      : C
+=============================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Available Products:
+------------------------------
+Laptop                ₹45000
+Gaming Laptop         ₹95000
+Mouse                 ₹500
+Keyboard              ₹2500
+Headphones            ₹1800
+Gaming Headset        ₹4500
+Mobile Phone          ₹18000
+Smart Watch           ₹8000
+USB Cable             ₹150
+Power Bank            ₹1200
+Laptop Bag            ₹900
+Pen                   ₹20
+Refill Pen            ₹35
+Notebook              ₹80
+Sketch Book           ₹150
+Pencil                ₹10
+Eraser                ₹5
+Sharpener             ₹15
+Ruler 30cm            ₹25
+Geometry Box          ₹120
+Highlighter Set       ₹80
+Chips Pack            ₹20
+Chocolates            ₹50
+Biscuits Packet       ₹30
+Cold Drink 1L         ₹45
+Energy Drink          ₹70
+Peanuts 200g          ₹90
+T‑Shirt Cotton        ₹399
+Jeans                 ₹1299
+Hoodie                ₹799
+Casual Shoes          ₹1499
+Socks 3 Pairs         ₹199
+Cap                   ₹250
+Wallet                ₹450
+Wall Clock            ₹750
+LED Bulb 9W           ₹85
+Toothbrush            ₹50
+Toothpaste 100g       ₹120
+Face Wash 100ml       ₹180
+Sanitizer Mini        ₹60
+'Laptop' (x1) added to cart.
+
+'Mouse' (x2) added to cart.
+
+'Headphones' (x1) added to cart.
+
+'Oven' is not available. Please choose from the list.
+
+
+==================================================
+                  SHOPPING CART
+==================================================
+Laptop          ₹45000    × 1  = ₹45000
+Mouse           ₹500      × 2  = ₹1000
+Headphones      ₹1800     × 1  = ₹1800
+--------------------------------------------------
+TOTAL BILL: ₹47800
+==================================================
+'Mouse' removed from cart.
+
+
+==================================================
+                  SHOPPING CART
+==================================================
+Laptop          ₹45000    × 1  = ₹45000
+Headphones      ₹1800     × 1  = ₹1800
+--------------------------------------------------
+TOTAL BILL: ₹46800
+==================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- Welcome to login portal --
+
+Enter username: David99
+Enter password: davidisreal123
+
+
+Login Successful! Welcome, David99
+
+
+
+Abdul added
+Madhu added
+Current visitors: {'Madhu', 'Abdul'}
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+--- Formatted Output ---
+
+Sentence:
+Abdul purchased a PS5.
+
+Left aligned:
+Abdul purchased a PS5.
+
+Right aligned:
+                  Abdul purchased a PS5.
+
+Center aligned:
+         Abdul purchased a PS5.
+
+
+
+
+
+
+
+
+
+
+
+
+        
+Account created for Abdul Basith with balance ₹5000.
+₹2000 deposited. New balance: ₹7000.00
+₹1500 withdrawn. New balance: ₹5500.00
+Balance for Abdul Basith: ₹5500.00
+Insufficient balance.
+
+
+
+
+
+
+
+
+
+Vote added for Ramesh
+Vote added for Suresh
+Vote added for Suresh
+Vote added for Suresh
+Winner of the elections : Suresh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Added Alice with 2 courses.
+Added Bob with 1 courses.
+Updated courses for Alice.
+
+--- Student Profile ---
+Name:    Alice
+Courses: History, Biology, Physics, Chemistry
+
+--- Student Profile ---
+Name:    Bob
+Courses: Calculus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==================================================
+           NUMBER UTILITY TOOL
+==================================================
+Number (Integer Representation) : 1234567
+
+Base conversions for 1234567:
+Binary  : 100101101011010000111
+Octal   : 4553207
+Hex     : 12D687
+Formatted with commas: 1,234,567
+Scientific notation  : 1.234567e+06
+==================================================
+           NUMBER UTILITY TOOL
+==================================================
+Number (Integer Representation) : 255
+
+Base conversions for 255:
+Binary  : 11111111
+Octal   : 377
+Hex     : FF
+Formatted with commas: 255
+Scientific notation  : 2.550000e+02
+==================================================
+           NUMBER UTILITY TOOL
+==================================================
+Number (Integer Representation) : 999999999
+
+Base conversions for 999999999:
+Binary  : 111011100110101100100111111111
+Octal   : 7346544777
+Hex     : 3B9AC9FF
+Formatted with commas: 999,999,999
+Scientific notation  : 1.000000e+09

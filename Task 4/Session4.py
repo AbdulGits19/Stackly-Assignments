@@ -445,7 +445,7 @@ def to_scientific_notation(num):
 
 
 def show_number_info(num):
-    """Show all utilities for a number."""
+    
     print("=" * 50)
     print("           NUMBER UTILITY TOOL")
     print("=" * 50)

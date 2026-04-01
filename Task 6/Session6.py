@@ -117,13 +117,11 @@ user1.register().login().greet()
 
 
 class User:
-    users_count = 0  # Class variable to track all user types
+    users_count = 0 
 
     def __init__(self, username, pwd):
-        # Encapsulation: Private variables
         self.__user_name = username
         self.__pwd = pwd
-        # Bonus: Increment count on each object creation
         User.users_count += 1
 
     def get_user(self):

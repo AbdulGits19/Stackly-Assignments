@@ -101,32 +101,9 @@ print(temp_faculty.get_details())
 # 👉 Task 3: Sorting using key
 
 
-# Structure of each tuple = (Name, Fees, Salary)
-students_fees_sal = [ 
-    ("Rahul Sharma", 45000, 600000),
-    ("Priya Patel", 52000, 500000),
-    ("Amit Kumar", 48000, 450000),
-    ("Sneha Reddy", 51000, 650000),
-    ("Vikram Singh", 49000, 350000),
-    ("Divya Menon", 53000, 710000),
-    ("Karan Gupta", 47000, 1100000)
-]
-
-
-sorted_by_fees = sorted(students_fees_sal, key = lambda i : i[1])
-sorted_by_salary = sorted(students_fees_sal, key = lambda i : i[-1])
-print(sorted_by_fees)
-print(f'\n{sorted_by_salary}')
-
-
-# 👉 Task 3: Sorting using key
-
-
-# Objects
 students = [student, student2]
 faculty_list = [faculty, faculty2]
 
-# Sorting students by fees and salary
 
 sorted_students = sorted(students, key=lambda x: x.fees)
 sorted_faculty = sorted(faculty_list, key=lambda x: x.salary)
@@ -182,25 +159,18 @@ print("\n------ Total Salary of Faculty ------")
 print(total_salary)
 
 
+# 👉 Task 7: Higher Order Function
 
 # Higher Order Function
 def process_users(users, func):
     return list(map(func, users))
 
 
-# Create list from your existing student objects
-students = [student, student2]
-
-
-# 🔹 Example 1: Extract names
 names = process_users(students, lambda s: s.name)
-
 print("\n------ Names using HOF ------")
 print(names)
 
-
-# 🔹 Example 2: Extract fees
 fees = process_users(students, lambda s: s.fees)
-
 print("\n------ Fees using HOF ------")
 print(fees)
+

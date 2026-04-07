@@ -1,0 +1,214 @@
+PS C:\Users\Hp\OneDrive\Desktop\Stackly_Assignments> & C:/Python314/python.exe "c:/Users/Hp/OneDrive/Desktop/Stackly_Assignments/Task 7/Session7.py"
+
+-------------- Inheritance Working -----------------------
+
+User: Name = 'Alekhya Maaran', ID = 1
+
+Student: Name = 'Jaan Begum', ID = 2, Dept = 'CSE', Fees = 50000
+
+Faculty: Name = 'Dr. Goutham Srinivasan', ID = 3, Salary = 100000
+
+TempFaculty: Name = 'Bob Marley', ID = 4, Salary = 80000, Duration = '6 months'
+
+--------------------------------------------------------------
+
+User: Name = 'Abdul', ID = 1
+
+Student: Name = 'Uday Karnan', ID = 2, Dept = 'CSE', Fees = 50000
+
+Faculty: Name = 'Dr. Samson', ID = 3, Salary = 100000
+
+TempFaculty: Name = 'John Durairaj', ID = 4, Salary = 80000, Duration = '6 months'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Student: Thanish Deep (ID: 2), Dept: CSE, Fees: ₹50000
+Faculty: Sarah Cooper (ID: 3), Salary: ₹100,000
+Temp Faculty:  Ian Mckellen (ID: 4), Salary: ₹90,000, Duration: 6 months
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------ Sorted Students by fees ------
+Thanish Deep 50000
+Uday Karnan 50000
+
+------ Sorted Faculty by salary ------
+Sarah Cooper 100000
+Dr. Samson 100000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------ Student Names ------
+
+['Thanish Deep', 'Uday Karnan']
+
+------ Students with Fees > 50000 ------
+
+------ Faculty with Salary > 30000 ------
+Sarah Cooper 100000
+Dr. Samson 100000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------ Total Fees Collected ------
+100000
+
+------ Total Salary of Faculty ------
+200000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------ Names using HOF ------
+['Thanish Deep', 'Uday Karnan']
+
+------ Fees using HOF ------
+[50000, 50000]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MINI FUNCTION OUTPUT :
+
+
+PS C:\Users\Hp\OneDrive\Desktop\Stackly_Assignments> & C:/Python314/python.exe "c:/Users/Hp/OneDrive/Desktop/Stackly_Assignments/Task 7/Task7FinalTaskMiniFunction.py"
+
+--- ALL DETAILS ---
+Student: Ali, Fees: 50000
+Student: Karan, Fees: 30000
+Student: Sara, Fees: 70000
+Faculty: Tarun Rao, Salary: 100000
+Faculty: Kaanth, Salary: 70000
+Faculty: Yugesh Darsh, Salary: 25000
+
+--- SORTED ---
+
+Students (by fees):
+Karan 30000
+Ali 50000
+Sara 70000
+
+Faculty (by salary):
+Yugesh Darsh 25000
+Kaanth 70000
+Tarun Rao 100000
+
+--- FILTERED ---
+
+High Fee Students:
+Sara 70000
+
+High Salary Faculty:
+Tarun Rao 100000
+Kaanth 70000
+
+--- TOTALS ---
+Total Fees: 150000
+Total Salary: 195000
+PS C:\Users\Hp\OneDrive\Desktop\Stackly_Assignments> 

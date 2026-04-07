@@ -1,0 +1,66 @@
+PS C:\Users\Hp\OneDrive\Desktop\Stackly_Assignments> & C:/Python314/python.exe "c:/Users/Hp/OneDrive/Desktop/Stackly_Assignments/Task 5/Session5.py"
+{'name': 'Gaurav', 'age': 29, 'role': 'UI/UX Designer'}
+{'name': 'Abhinay', 'age': 27, 'role': 'Ruby Developer'}
+{'name': 'Yunus', 'age': 26, 'role': 'Linux Engineer'}
+
+---------- Users -----------
+ 1 - Gaurav
+ 2 - Abhinay
+ 3 - Yunus
+-----------------------------
+
+
+
+
+
+ Sum : 55, Avg : 5.5
+
+
+
+
+
+All key-value pairs:
+mode: debug
+version: 1.0
+All key-value pairs:
+mode: recover
+version: 2.6
+
+
+
+
+
+120
+
+
+
+
+
+
+[0, 1, 4, 9, 16]
+0
+1
+4
+9
+16
+<class 'list'>
+<class 'generator'>
+
+
+
+
+
+Invalid Input, Try removing zero from the denominator
+Program Completed
+
+
+
+
+
+
+Data successfully written to team_data.txt
+
+Reading file content:
+Name: Abdul, Role: Python Developer, Department: Software Development
+
+The file is confirmed CLOSED.

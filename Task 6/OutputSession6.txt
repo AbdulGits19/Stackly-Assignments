@@ -1,0 +1,38 @@
+PS C:\Users\Hp\OneDrive\Desktop\Stackly_Assignments> & c:/python314/python.exe "c:/Users/Hp/OneDrive/Desktop/Stackly_Assignments/Task 6/Session6.py"
+Registering user: Abdul
+Username : Abdul
+Enter Username : Abdul
+Enter Password : PythonTask6@123
+Logging in: Abdul
+
+
+
+User registered
+Hello Faculty
+Hello Temp Faculty
+
+
+
+Welcome User
+Welcome Student
+Welcome Faculty
+
+
+
+registered
+logged in
+enjoy everyone
+
+
+
+Total Users Created: 2
+
+--- Student Chain ---
+logined
+Welcome Student
+registered: abdul_19
+
+--- Faculty Chain ---
+logined
+Welcome Faculty
+registered: karun_s

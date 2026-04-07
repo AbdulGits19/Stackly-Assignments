@@ -1,0 +1,340 @@
+PS C:\Users\Hp\OneDrive\Desktop\Stackly_Assignments\Final Task 8> & C:/Python314/python.exe "c:/Users/Hp/OneDrive/Desktop/Stackly_Assignments/Final Task 8/OutputSession8.py"
+[3]
+PS C:\Users\Hp\OneDrive\Desktop\Stackly_Assignments\Final Task 8> & C:/Python314/python.exe "c:/Users/Hp/OneDrive/Desktop/Stackly_Assignments/Final Task 8/Session8.py"
+ SQL Connection Successful!!! 
+
+==== Smart Expense Manager ====
+1. Add User
+2. Add Expense
+3. View Expenses
+4. Filter Expenses
+5. Total Expense
+6. Category-wise Spending
+7. Delete Expense
+8. Update Expense
+9. Monthly Report
+10. Highest Expense
+11. Smart Insight
+12. Exit
+Enter choice: 2
+Enter user ID: 4
+Enter name: Chris Stevens
+Amount: 8200
+Category: Medicines
+Description: April Insulin Shots
+Date (YYYY-MM-DD): 2026-04-01
+Expense added!
+
+==== Smart Expense Manager ====
+1. Add User
+2. Add Expense
+3. View Expenses
+4. Filter Expenses
+5. Total Expense
+6. Category-wise Spending
+7. Delete Expense
+8. Update Expense
+9. Monthly Report
+10. Highest Expense
+11. Smart Insight
+12. Exit
+Enter choice: 4
+Enter user ID: 2
+Filter by (category/date): category
+Enter category: Medicines
+
+Filtered Results:
+
+==== Smart Expense Manager ====
+1. Add User
+2. Add Expense
+3. View Expenses
+4. Filter Expenses
+5. Total Expense
+6. Category-wise Spending
+7. Delete Expense
+8. Update Expense
+9. Monthly Report
+10. Highest Expense
+11. Smart Insight
+12. Exit
+Enter choice: 3
+Enter user ID: 1
+('Yalina Jamaali', 1, 5000.0, 'Groceries', 'Monthly Dal, Rice and Wheat', datetime.date(2026, 4, 1))
+('Yalina Jamaali', 3, 6000.0, 'Cosmetics', 'Foundation Kit and Manicure', datetime.date(2026, 3, 29))
+
+==== Smart Expense Manager ====
+1. Add User
+2. Add Expense
+3. View Expenses
+4. Filter Expenses
+5. Total Expense
+6. Category-wise Spending
+7. Delete Expense
+8. Update Expense
+9. Monthly Report
+10. Highest Expense
+11. Smart Insight
+12. Exit
+Enter choice: 5
+Enter user ID: 1
+Total Expense: 11000.0
+
+==== Smart Expense Manager ====
+1. Add User
+2. Add Expense
+3. View Expenses
+4. Filter Expenses
+5. Total Expense
+6. Category-wise Spending
+7. Delete Expense
+8. Update Expense
+9. Monthly Report
+10. Highest Expense
+11. Smart Insight
+12. Exit
+Enter choice: 7
+Enter expense ID to delete: 4
+Deleted successfully!
+
+==== Smart Expense Manager ====
+1. Add User
+2. Add Expense
+3. View Expenses
+4. Filter Expenses
+5. Total Expense
+6. Category-wise Spending
+7. Delete Expense
+8. Update Expense
+9. Monthly Report
+10. Highest Expense
+11. Smart Insight
+12. Exit
+Enter choice: 10
+Enter user ID: 3
+No expenses
+
+==== Smart Expense Manager ====
+1. Add User
+2. Add Expense
+3. View Expenses
+4. Filter Expenses
+5. Total Expense
+6. Category-wise Spending
+7. Delete Expense
+8. Update Expense
+9. Monthly Report
+10. Highest Expense
+11. Smart Insight
+12. Exit
+Enter choice: 10
+Enter user ID: 2
+Highest Expense: ('Tarun Verma', 2, 9000.0, 'Fees', 'Hostel Rent (March)', datetime.date(2026, 4, 5))
+
+==== Smart Expense Manager ====
+1. Add User
+2. Add Expense
+3. View Expenses
+4. Filter Expenses
+5. Total Expense
+6. Category-wise Spending
+7. Delete Expense
+8. Update Expense
+9. Monthly Report
+10. Highest Expense
+11. Smart Insight
+12. Exit
+Enter choice: 10
+Enter user ID: 2
+Highest Expense: ('Tarun Verma', 2, 9000.0, 'Fees', 'Hostel Rent (March)', datetime.date(2026, 4, 5))
+
+==== Smart Expense Manager ====
+1. Add User
+2. Add Expense
+3. View Expenses
+4. Filter Expenses
+5. Total Expense
+6. Category-wise Spending
+7. Delete Expense
+8. Update Expense
+9. Monthly Report
+10. Highest Expense
+11. Smart Insight
+12. Exit
+Enter choice: 2
+Enter user ID: 3
+Enter name: Ranjith Hegde
+Amount: 15500
+Category: Insurance
+Description: Hyundai Grand i10 Car Insurance 2026
+Date (YYYY-MM-DD): 2026-03-11
+Expense added!
+
+==== Smart Expense Manager ====
+1. Add User
+2. Add Expense
+3. View Expenses
+4. Filter Expenses
+5. Total Expense
+6. Category-wise Spending
+7. Delete Expense
+8. Update Expense
+9. Monthly Report
+10. Highest Expense
+11. Smart Insight
+12. Exit
+Enter choice: 11
+Enter user ID: 1
+You are spending too much on Cosmetics
+
+==== Smart Expense Manager ====
+1. Add User
+2. Add Expense
+3. View Expenses
+4. Filter Expenses
+5. Total Expense
+6. Category-wise Spending
+7. Delete Expense
+8. Update Expense
+9. Monthly Report
+10. Highest Expense
+11. Smart Insight
+12. Exit
+Enter choice: 6
+Enter user ID: 1
+
+ Category-wise Spending:
+Groceries: 5000.0
+Cosmetics: 6000.0
+
+==== Smart Expense Manager ====
+1. Add User
+2. Add Expense
+3. View Expenses
+4. Filter Expenses
+5. Total Expense
+6. Category-wise Spending
+7. Delete Expense
+8. Update Expense
+9. Monthly Report
+10. Highest Expense
+11. Smart Insight
+12. Exit
+Enter choice: 3
+Enter user ID: 3
+('Ranjith Hegde', 6, 15500.0, 'Insurance', 'Hyundai Grand i10 Car Insurance 2026', datetime.date(2026, 3, 11))
+
+==== Smart Expense Manager ====
+1. Add User
+2. Add Expense
+3. View Expenses
+4. Filter Expenses
+5. Total Expense
+6. Category-wise Spending
+7. Delete Expense
+8. Update Expense
+9. Monthly Report
+10. Highest Expense
+11. Smart Insight
+12. Exit
+Enter choice: 9 
+Enter user ID: 4
+
+Monthly Report:
+Month 4: 8200.0
+
+==== Smart Expense Manager ====
+1. Add User
+2. Add Expense
+3. View Expenses
+4. Filter Expenses
+5. Total Expense
+6. Category-wise Spending
+7. Delete Expense
+8. Update Expense
+9. Monthly Report
+10. Highest Expense
+11. Smart Insight
+12. Exit
+Enter choice: 8
+Enter expense ID: 3
+Enter new amount: 8999
+Updated successfully!
+
+==== Smart Expense Manager ====
+1. Add User
+2. Add Expense
+3. View Expenses
+4. Filter Expenses
+5. Total Expense
+6. Category-wise Spending
+7. Delete Expense
+8. Update Expense
+9. Monthly Report
+10. Highest Expense
+11. Smart Insight
+12. Exit
+Enter choice: 2
+Enter user ID: 1
+Enter name: Yalina Jamaali
+Amount: 6200
+Category: Sports
+Description: Badminton Kit
+Date (YYYY-MM-DD): 2026-04-01
+Expense added!
+
+==== Smart Expense Manager ====
+1. Add User
+2. Add Expense
+3. View Expenses
+4. Filter Expenses
+5. Total Expense
+6. Category-wise Spending
+7. Delete Expense
+8. Update Expense
+9. Monthly Report
+10. Highest Expense
+11. Smart Insight
+12. Exit
+Enter choice: 2
+Enter user ID: 2
+Enter name: Tarun Verma
+Amount: 4500
+Category: Food
+Description: AMB Mall Food Spends March
+Date (YYYY-MM-DD): 2026-03-29
+Expense added!
+
+==== Smart Expense Manager ====
+1. Add User
+2. Add Expense
+3. View Expenses
+4. Filter Expenses
+5. Total Expense
+6. Category-wise Spending
+7. Delete Expense
+8. Update Expense
+9. Monthly Report
+10. Highest Expense
+11. Smart Insight
+12. Exit
+Enter choice: 7
+Enter expense ID to delete: 8
+Deleted successfully!
+
+==== Smart Expense Manager ====
+1. Add User
+2. Add Expense
+3. View Expenses
+4. Filter Expenses
+5. Total Expense
+6. Category-wise Spending
+7. Delete Expense
+8. Update Expense
+9. Monthly Report
+10. Highest Expense
+11. Smart Insight
+12. Exit
+Enter choice: 12
+Program is terminated!
+PS C:\Users\Hp\OneDrive\Desktop\Stackly_Assignments\Final Task 8>

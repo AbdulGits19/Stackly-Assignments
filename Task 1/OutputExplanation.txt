@@ -1,0 +1,85 @@
+OUTPUT 👇
+
+PS C:\Users\Hp\OneDrive\Desktop\Stackly_Assignments> & C:/Python314/python.exe c:/Users/Hp/OneDrive/Desktop/Stackly_Assignments/Session1.py
+Hello World Welcome Python
+Laptop | Mouse | Keyboard
+Ravi-22-Chennai
+Meena 20 True
+P
+t
+n
+35
+30
+40
+10.0
+16
+6
+53
+75
+10.0
+True
+False
+True
+True
+True
+False
+False
+True
+True
+False
+True
+False
+False
+20 10
+5
+
+
+
+EXPLANATION 👇
+
+1) In Task 1, we print 'Hello World' and use "end" attribute with an empty space ' ' and then
+print 'Welcome Python' so we get both the outputs in same line with a space between them.
+The next line we use seperator attribute sep with ' | ' a vertical line to seperate Laptop, Mouse and Keyboard
+
+2) In Task 2, we print name, age and city in a single print statement with sep '-'
+
+3) In Task 3, multiple variable assignment is done by declaring 3 variables in a single line 
+and assign 'Meena' , 20 , True to those respective variables.
+
+4) In Task 4, indexing was done and indexing starts with 0
+so for first word we use subscript 0, for third word, subscript 2
+and for final word, we use negative indexing which starts from -1 from backwards.
+So, the respective print statements return P,t,n.
+
+5) In Task 5, we get to know the working of diferent arithmetic operators.
+Special mentions are : exponential operator( ** ) which returns power of the respective number
+and floor division (//) which gives us only decimal value.
+
+6) In Task 6, BODMAS Expression was used.
+Order of execution is brackets, division, multiplication, addition, subtraction
+
+7) In Task 7, we came across assignment operators, where we used 2 special type of assigments
++= which adds itself to the variable and /= which divides itself to a variable.
+
+8) In Task 8, Comparison operators were used, all self explanatory and == is used for comparing values of 2 objects
+
+9) In Task 9, We sompared two strings and we declared that those two are not equal to each other as their ord() values change in the 
+ASCII Value perspective and python is strictly a case-sensitive language.
+
+10) In Task 10, we perform AND, OR for 2 expressions.
+10 > 5 is True and 5 == 5 is also True, so AND returns True
+5 > 10 is False and 10 == 10 is True, so OR returns True
+5 > 2 is True and NOT of True is False
+
+11) In Task 11, We come across in and not in which checks if a particular value exists in an iterable or not.
+ 20 exists in numbers, so returns True
+ 60 does not exist in numbers, so False
+ 30 exists in numbers, but not in, returns False
+
+12) In Task 12, We swap variables using pythonic way in one line.
+
+13) In Task 13, we perform BITWISE Operation.
+6 in binary = 110
+3 in binary = 011
+XOR of 6 and 3 gives us => 110 ^ 011 = 101 
+Number form of  101 = 5
